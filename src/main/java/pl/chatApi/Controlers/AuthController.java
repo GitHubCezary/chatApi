@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import pl.chatApi.Config.AuthManager;
 import pl.chatApi.Models.ChatUser;
+import pl.chatApi.Services.UserDetailServiceImplement;
 
 import javax.crypto.spec.SecretKeySpec;
 import java.security.Key;
