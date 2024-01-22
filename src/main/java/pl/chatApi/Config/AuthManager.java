@@ -1,6 +1,5 @@
 package pl.chatApi.Config;
 
-package pl.chat.chatApi;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
