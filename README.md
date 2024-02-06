@@ -21,3 +21,7 @@ Niektóre przeglądarki mogą blokować poprawne działanie aplikacji.
  ![Zrzut ekranu](https://github.com/GitHubCezary/chatApi/blob/master/Zrzut%20ekranu%202024-02-06%20143230.png)
  
 3. Aplikacja obsługuje proces logowania. Nowy użytkownik powinien zarejestrować się 
+ ![Zrzut ekranu](https://github.com/GitHubCezary/chatApi/blob/master/Zrzut%20ekranu%202024-02-06%20174017.png)
+Login i Hasło zapisywane są w bazie danych. w kolejnym kroku Użytkownik musi sie zaglogować.
+4. Po udanym zalogowaniu uzyskujemy dostęp do okna czatu. pierwsze pole wypełnić należy wiadomością w drugie pole należy wpisać swój nick.
+![Zrzut ekranu](https://github.com/GitHubCezary/chatApi/blob/master/Zrzut%20ekranu%202024-02-06%20143323.png)
